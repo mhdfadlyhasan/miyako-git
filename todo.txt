@@ -1,0 +1,8 @@
+1. assign main dir
+2. detect changes in every directory, if there're changes, list them (continue for 4)
+3. define git config for each dir
+4. do git command for each config
+5. for git command one fail all fail, and notify which failed
+6. try git push
+7. interacable cli (?) 
+8. Feedbacks
