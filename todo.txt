@@ -1,4 +1,4 @@
-1. assign main dir
+1. assign main dir (done)
 2. detect changes in every directory, if there're changes, list them (continue for 4)
 3. define git config for each dir
 4. do git command for each config
